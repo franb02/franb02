@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Francisco Barroso
 
 Soy un estudiante de Desarrollo Web, apasionado por la tecnología y el diseño web. Me encanta crear aplicaciones y sitios modernos, enfocados en la funcionalidad y la experiencia del usuario.
+[![LinkedIn Logo](https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png)](https://www.linkedin.com/in/francisco-barroso-simon-1077a1340)
 
 ## 🚀 Tecnologías y Herramientas
 - **Lenguajes:** HTML, CSS, JavaScript, PHP, Java, XML  
