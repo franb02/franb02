@@ -3,9 +3,9 @@
 Soy un estudiante de Desarrollo Web, apasionado por la tecnología y el diseño web. Me encanta crear aplicaciones y sitios modernos, enfocados en la funcionalidad y la experiencia del usuario.
 
 ## 🚀 Tecnologías y Herramientas
-- **Lenguajes:** HTML, CSS, JavaScript, PHP, Java, XML  
-- **Frameworks y Librerías:** [🛠️en proceso🛠️]  
-- **Bases de datos:** MySQL  
+- **Lenguajes:** Python, HTML, CSS, JavaScript, PHP, XML  
+- **Frameworks y Librerías:** Bootstrap, Django, React  
+- **Bases de datos:** PostgreSQL  
 - **Herramientas:** Git, LAMP, Visual Studio Code
 - **Diseño y prototipado:**
 Figma, Adobe Photoshop,
